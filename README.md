@@ -4,7 +4,7 @@ Only libraries used are:
 - **Numpy** for arrays and matrices
 - **Matplotlib** for plotting graphs
 
-The codes have been explained in the [blog](https://medium.com/machinelearningalgorithms)
+The codes have been explained in the [blog](https://medium.com/machinelearningalgorithms) under the respective stories.
 
 ## Libraries required
 - Numpy 1.13.1 or greater.
